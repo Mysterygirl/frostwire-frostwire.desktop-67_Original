@@ -1,2 +1,2 @@
 # frostwire-frostwire.desktop-67_Original
- 
+Open source under the GNU licence (GPLv2) and based off the original FrostWire v.4 project (original fork of FrostWire) although the public release will use a different application name. Renaming was appropriate to avoid clashes of version numbers (such as with the Android version) and other reasons. Application name is yet to be decided (most likely include either Snow and/or Frost.)
